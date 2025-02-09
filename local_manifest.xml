@@ -7,7 +7,7 @@
 	<project path="vendor/xiaomi/fog" name="alternoegraha/vendor_xiaomi_fog" remote="github" revision="refresh" />
 	<project path="hardware/xiaomi" name="PixelOS-AOSP/hardware_xiaomi" remote="github" revision="fifteen" />
 	<project path="kernel/xiaomi/fog" name="alternoegraha/wwy_kernel_xiaomi_fog_rebase" remote="github" revision="makeine-mk2" />
-	<project path="vendor/aosp/signing" name="alternoegraha/keys" remote="github" revision="pixel" />
+	<!-- <project path="vendor/aosp/signing" name="alternoegraha/keys" remote="github" revision="pixel" /> -->
 	<!-- <project path="vendor/gapps" name="MindTheGapps/vendor_gapps" remote="gitlab" revision="vic" /> -->
           
 </manifest>
